@@ -1,7 +1,7 @@
 ### Hi, I'm kaina404, a Developer 🚀 from China.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://upload.jianshu.io/users/upload_avatars/3884536/48a7cd01-2b5c-4bbe-bc2d-e525da994ce9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/480/h/480" />
+<img width="55%" align="right" alt="Github" src="https://upload.jianshu.io/users/upload_avatars/3884536/48a7cd01-2b5c-4bbe-bc2d-e525da994ce9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240" />
 
 <!--
 ** kaina404/kaina404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
