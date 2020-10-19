@@ -1,4 +1,4 @@
-### Hi, I'm kaina404, a Developer 🚀 from China.
+### Hi, I'm kaina404 🔥
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/kaina404/TimePro/blob/master/assets/images/login_logo.png?raw=true" />
