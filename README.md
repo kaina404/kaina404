@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-**Languages and Tools:**
+**For All**
 
 <!-- Your github readme stats
 You can use this api: https://github.com/kaina404/github-readme-stats
