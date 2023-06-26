@@ -1,7 +1,7 @@
 ### Hi, I'm kaina404 🔥
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/kaina404/TimePro/blob/master/assets/images/login_logo.png?raw=true" />
+
 
 <!--
 ** kaina404/kaina404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +35,4 @@ You can use this api: https://github.com/kaina404/github-readme-stats
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaina404&theme=dracula&utcOffset=8"/>
 </p>
 
+<img width="55%" align="right" alt="Github" src="https://github.com/kaina404/TimePro/blob/master/assets/images/login_logo.png?raw=true" />
