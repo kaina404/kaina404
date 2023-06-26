@@ -24,24 +24,14 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/kaina404/github-readme-stats
 -->
+  
+<img width = "900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaina404&theme=dracula" />
+
 <p>
-  <a href="https://github.com/kaina404/">
-    <img  margin-top="-30px" width="55%" align="right" alt="kaina404's github stats" src="https://github-readme-stats.vercel.app/api?username=kaina404&show_icons=true&hide_border=true" />
-  </a>
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaina404&theme=dracula"/>
+  
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaina404&theme=dracula"/>
 
-  <!-- Your languages and tools. Be carefufal with the alignment.
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
-  <br/>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-   <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaina404&theme=dracula&utcOffset=8"/>
 </p>
+
