@@ -33,6 +33,17 @@ You can use this api: https://github.com/kaina404/github-readme-stats
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaina404&theme=dracula"/>
 
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaina404&theme=dracula&utcOffset=8"/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
+  <br/>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+   <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://github.com/kaina404/TimePro/blob/master/assets/images/login_logo.png?raw=true" />
